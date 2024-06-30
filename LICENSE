@@ -2,6 +2,16 @@ BSD 3-Clause License
 
 Copyright (c) 2024, Vibha Viswanathan
 
+All rights reserved.
+
+If you are using this software, please cite:
+```
+Viswanathan, V., Heinz, M. G., & Shinn-Cunningham, B. G. (2024). Impact of Reduced Spectral Resolution on Temporal-Coherence-Based Source Segregation. bioRxiv 2024.03.11.584489. doi: https://doi.org/10.1101/2024.03.11.584489.	
+```
+and
+```
+Viswanathan, V., Shinn-Cunningham, B. G., & Heinz, M. G. (2022). Speech categorization reveals the role of early-stage temporal-coherence processing in auditory scene analysis. Journal of Neuroscience, 42(2), 240-254. doi: https://doi.org/10.1523/JNEUROSCI.1610-21.2021.
+```
 Redistribution and use in source and binary forms, with or without
 modification, are permitted provided that the following conditions are met:
 
